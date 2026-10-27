@@ -139,6 +139,15 @@ Built as a fun local Chrome extension for web video calls.
 
 ---
 
+## Credits
+
+Based on the original work by **[azamsahito](https://github.com/azamsahito)** —  
+[github.com/azamsahito/snap-cinema-fx](https://github.com/azamsahito/snap-cinema-fx)
+
+Thank you for creating and sharing this project.
+
+---
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
