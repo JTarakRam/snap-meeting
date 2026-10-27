@@ -1,10 +1,10 @@
 {
   "manifest_version": 3,
-  "name": "Snap & Cinema FX",
+  "name": "Snap Meeting",
   "version": "1.2.0",
   "description": "Snap your fingers to turn to dust (and snap again to come back). Raise both hands for ABSOLUTE CINEMA. Works in Google Meet and other web video calls.",
   "author": "Tarak Ram (@JTarakRam)",
-  "homepage_url": "https://github.com/JTarakRam/snap-cinema-fx",
+  "homepage_url": "https://github.com/JTarakRam/snap-meeting",
 
   "icons": {
     "16": "icons/icon16.png",
@@ -13,7 +13,7 @@
     "128": "icons/icon128.png"
   },
   "action": {
-    "default_title": "Snap & Cinema FX",
+    "default_title": "Snap Meeting",
     "default_popup": "popup.html",
     "default_icon": {
       "16": "icons/icon16.png",

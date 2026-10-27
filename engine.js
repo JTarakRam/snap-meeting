@@ -1033,7 +1033,7 @@ window.addEventListener('message', (e) => {
     try {
       processFrame(d.id, d.bitmap);
     } catch (err) {
-      if (errCount++ < 5) console.error('[Snap&Cinema FX]', err);
+      if (errCount++ < 5) console.error('[Snap Meeting]', err);
       try { post({ type: 'result', id: d.id, bitmap: d.bitmap }, [d.bitmap]); }
       catch (_) { post({ type: 'result', id: d.id }); }
     }

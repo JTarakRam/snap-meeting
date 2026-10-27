@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="docs/images/icon.png" alt="Snap & Cinema FX" width="96" height="96">
+  <img src="docs/images/icon.png" alt="Snap Meeting" width="96" height="96">
 </p>
 
-<h1 align="center">Snap &amp; Cinema FX</h1>
+<h1 align="center">Snap Meeting</h1>
 
 <p align="center">
   <strong>Chrome extension for cinematic webcam effects in Google Meet and any web video call.</strong><br>
@@ -18,14 +18,14 @@
 </p>
 
 <p align="center">
-  <img src="docs/images/banner.jpg" alt="Snap & Cinema FX banner" width="100%">
+  <img src="docs/images/banner.jpg" alt="Snap Meeting banner" width="100%">
 </p>
 
 ---
 
 ## What it does
 
-Snap & Cinema FX sits between your camera and the website. Sites like Google Meet, Zoom Web, Teams Web, and Discord Web receive a processed video stream — so effects are visible to everyone on the call.
+Snap Meeting sits between your camera and the website. Sites like Google Meet, Zoom Web, Teams Web, and Discord Web receive a processed video stream — so effects are visible to everyone on the call.
 
 | Gesture | Effect |
 |--------|--------|
@@ -77,11 +77,11 @@ Takes about two minutes. No store listing required.
 
 1. **Clone or download** this repo and keep the folder somewhere permanent (don’t delete it after loading).
    ```bash
-   git clone https://github.com/JTarakRam/snap-cinema-fx.git
+   git clone https://github.com/JTarakRam/snap-meeting.git
    ```
 2. Open Chrome and go to `chrome://extensions`
 3. Turn on **Developer mode** (top-right)
-4. Click **Load unpacked** and select the `snap-cinema-fx` folder (the one that contains `manifest.json`)
+4. Click **Load unpacked** and select the `snap-meeting` folder (the one that contains `manifest.json`)
 5. Pin the extension from the puzzle-piece icon
 6. Reload any Meet (or other call) tab that was already open
 

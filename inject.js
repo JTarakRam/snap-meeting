@@ -7,7 +7,7 @@
   window.__snapfxInstalled = true;
   if (typeof MediaDevices === 'undefined' || !MediaDevices.prototype.getUserMedia) return;
 
-  const TAG = '[Snap&Cinema FX]';
+  const TAG = '[Snap Meeting]';
   const origGUM = MediaDevices.prototype.getUserMedia;
 
   // ---------------------------------------------------------------- engine link
